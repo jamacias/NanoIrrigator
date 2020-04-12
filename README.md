@@ -10,12 +10,12 @@ The current design is for a single channel, but may be expanded to more channels
 
 ## Pics
 <p align="center">
-    <img src="./img/NanoIrrigator_3d.png" width="600">
+    <img src="./img/NanoIrrigator_3d.png" width="800">
 </p>
 <p align="center">
-    <img src="./img/NanoIrrigator_sim.png" width="600">
+    <img src="./img/NanoIrrigator_sim.png" width="800">
 </p>
 <p align="center">
-    <img src="./img/NanoIrrigator_pcb.png" width="600">
+    <img src="./img/NanoIrrigator_pcb.png" width="800">
 </p>
 
